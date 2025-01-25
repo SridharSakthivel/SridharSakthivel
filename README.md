@@ -5,8 +5,7 @@
 ---
 
 ### 🌟 About Me
-- 🌍 Currently based in Leipzig, Germany
-- 🎓 Holding a Silver Medal in University for Academic Excellence 🥈
+- 🌍 Currently based in Berlin, Germany
 
 - 🏆 Awarded for Excellence in Professional Achievements:
   - On the Spot Award
